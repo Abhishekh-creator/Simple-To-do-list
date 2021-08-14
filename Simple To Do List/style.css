@@ -1,0 +1,88 @@
+body {
+  background-color: aqua;
+  font-style: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+/*
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.4s ease-in-out;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.modal-visible {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.4s ease-in-out;
+  visibility: visible;
+  opacity: 1;
+}
+.message {
+  background-color: rgba(29, 103, 200, 1);
+  max-width: 700px;
+  width: 100%;
+  color: #fff;
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.message button {
+  cursor: pointer;
+  margin-left: 10px;
+  color: white;
+  background-color: palevioletred;
+}
+
+img {
+  margin-top: 20px;
+} */
+
+/* .list-item {
+  cursor: pointer;
+  width: min-content;
+}
+
+.list-item:hover {
+  color: red;
+  text-decoration: line-through;
+} */
+
+/* #modal.open {
+  display: block;
+}
+
+#overlay.open {
+  display: block;
+} */
+
+.list-item {
+  cursor: pointer;
+  width: min-content;
+}
+
+.list-item:hover {
+  color: red;
+  text-decoration: line-through;
+}
